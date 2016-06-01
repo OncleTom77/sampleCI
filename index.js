@@ -7,3 +7,5 @@ api.get('/', function(req, res, next) {
 
 console.log('Server started on port 3000...')
 api.listen(3000)
+
+module.exports = api
