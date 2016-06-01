@@ -1,0 +1,22 @@
+{
+  "name": "sampleci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OncleTom77/sampleCI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OncleTom77/sampleCI/issues"
+  },
+  "homepage": "https://github.com/OncleTom77/sampleCI#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
